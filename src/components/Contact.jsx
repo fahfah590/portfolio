@@ -3,8 +3,8 @@ function Contact() {
     <section id="contact">
       <h2>Contact</h2>
 
-      <p>Email: saalim@example.com</p>
-      <p>Phone: +91 XXXXX XXXXX</p>
+      <p>Email: darogesaalim@gmail.com</p>
+      <p>Phone: +91 95959 XXXXX</p>
     </section>
   );
 }
