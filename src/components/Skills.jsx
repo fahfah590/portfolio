@@ -4,11 +4,11 @@ function Skills() {
       <h2>Skills</h2>
 
       <ul>
-        <li>React JS</li>
-        <li>JavaScript</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Embedded Systems</li>
+        React JS
+        JavaScript
+        HTML
+        CSS
+        Embedded Systems
       </ul>
     </section>
   );
